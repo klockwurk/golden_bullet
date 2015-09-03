@@ -1,0 +1,135 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:Assets/ProCore/Prototype/Classes/ProBuilderCore-Unity5.dll
+-r:Assets/ProCore/Prototype/Classes/ProBuilderMeshOps-Unity5.dll
+-r:Assets/ProCore/Prototype/Classes/ClassesLib/KDTree.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:\Program Files\Unity\Editor\Data\PlaybackEngines\iossupport\UnityEditor.iOS.Extensions.Xcode.dll"
+-define:UNITY_5_0_1
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:CROSS_PLATFORM_INPUT
+Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+Assets/Characters/RollerBall/Scripts/Ball.cs
+Assets/Characters/RollerBall/Scripts/BallUserControl.cs
+Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs
+Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs
+Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/AutoCam.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/FreeLookCam.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/HandHeldCam.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/LookatTarget.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs"
+"Assets/Not Mine/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs"
+"Assets/Not Mine/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
+Assets/Scripts/AIBase.cs
+Assets/Scripts/Actions.cs
+Assets/Scripts/DropoffPoint.cs
+Assets/Scripts/Embeds.cs
+Assets/Scripts/Faction.cs
+Assets/Scripts/FirstPersonCamera.cs
+Assets/Scripts/Flag.cs
+Assets/Scripts/Gun.cs
+Assets/Scripts/Health.cs
+Assets/Scripts/MoveTo.cs
+Assets/Scripts/OnDeathEffects.cs
+Assets/Scripts/OrientTowardsVelocity.cs
+Assets/Scripts/Permanent.cs
+Assets/Scripts/PickUppable.cs
+Assets/Scripts/PicksUp.cs
+Assets/Scripts/PlayerController.cs
+Assets/Scripts/PlayerController2.cs
+Assets/Scripts/PressEscape.cs
+Assets/Scripts/Reticle.cs
+Assets/Scripts/RunnerAI.cs
+Assets/Scripts/Screenshake.cs
+Assets/Scripts/TimedDeath.cs
+Assets/Scripts/WanderAI.cs
+Assets/Utility/ActivateTrigger.cs
+Assets/Utility/AutoMobileShaderSwitch.cs
+Assets/Utility/AutoMoveAndRotate.cs
+Assets/Utility/CameraRefocus.cs
+Assets/Utility/CurveControlledBob.cs
+Assets/Utility/DragRigidbody.cs
+Assets/Utility/DynamicShadowSettings.cs
+Assets/Utility/FOVKick.cs
+Assets/Utility/FPSCounter.cs
+Assets/Utility/FollowTarget.cs
+Assets/Utility/ForcedReset.cs
+Assets/Utility/LerpControlledBob.cs
+Assets/Utility/ObjectResetter.cs
+Assets/Utility/ParticleSystemDestroyer.cs
+Assets/Utility/PlatformSpecificContent.cs
+Assets/Utility/SimpleActivatorMenu.cs
+Assets/Utility/SimpleMouseRotator.cs
+Assets/Utility/SmoothFollow.cs
+Assets/Utility/TimedObjectActivator.cs
+Assets/Utility/TimedObjectDestructor.cs
+Assets/Utility/WaypointCircuit.cs
+Assets/Utility/WaypointProgressTracker.cs
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll"

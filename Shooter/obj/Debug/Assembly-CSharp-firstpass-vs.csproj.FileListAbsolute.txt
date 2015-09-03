@@ -1,0 +1,14 @@
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\UnityEditor.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\UnityEngine.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Mono.Cecil.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Unity.DataContract.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Digipen\Semester 4.5\Shooter\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Digipen\Semester 4.5\Shooter\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Digipen\Semester 4.5\Shooter\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Digipen\Semester 4.5\Shooter\obj\Debug\Assembly-CSharp-firstpass.pdb
